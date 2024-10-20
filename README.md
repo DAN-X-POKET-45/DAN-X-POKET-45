@@ -1,13 +1,13 @@
 ## PROJECT-VOX official game developer
 
-#### PROJECT-VOX was writted in the languages->
+#### PROJECT-VOX was writted in the languages that i know->
   * _**C/C++**_           
   * _**Python3**_         
   * _**Shell Script**_    
   * _**XDL**_           
   * _**Markdown**_      
   * _**PlainText**_    
-  * _**DoxyGen**_      
+  * _**HTML & CSS**_      
 
 #### What is the project? Project VOX is->
 Project VOX is a decentralized server voxel editing game like minecraft, put and destroy blocks in the ENTIRE WORLD, you can interate with entities, kill or spawn entities too, fight with players or bosses, you also can build mods with PYTHON programing language, but why python? python is easy to learn for peoples like you, without time to learn, python is easy to build scripts and run anywhere.
