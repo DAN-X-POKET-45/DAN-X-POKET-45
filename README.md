@@ -1,18 +1,16 @@
 ## PROJECT-VOX official game developer
 
 #### PROJECT-VOX was writted in the languages that i know->
-  * _**C/C++**_           
-  * _**Python3**_         
-  * _**Shell Script**_    
-  * _**XDL**_           
-  * _**Markdown**_      
-  * _**PlainText**_    
-  * _**HTML & CSS**_      
+  * _**C/C++**_
+  * _**Lua**_
+  * _**MakeFile**_
+  * _**XDL**_
+  * _**HTML/CSS/JS**_
 
 #### What is the project? Project VOX is->
-Project VOX is a decentralized server voxel editing game like minecraft, put and destroy blocks in the ENTIRE WORLD, you can interate with entities, kill or spawn entities too, fight with players or bosses, you also can build mods with PYTHON programing language, but why python? python is easy to learn for peoples like you, without time to learn, python is easy to build scripts and run anywhere.
+Project VOX is a server based voxel editing game like Minecraft by mojang, put and destroy blocks in the ENTIRE WORLD, you can interate with entities, kill or spawn entities too, fight with players or bosses, you also can build mods with LUA programing language, but why lua? lua is easy to learn for peoples like you, without time to learn, lua is easy to build scripts and run anywhere and inside aplications without loose performance.
 
-You can build your own game server (FULL NODE) with your friends or a big comunity, multiplayer is under development, and it's not my concern at the moment.
+You can build your own game server with your friends or a big comunity, multiplayer is under development, and it's not my concern at the moment.
 
 #### Can I play anywhere?
 Not now, because i don't know how to program like a professional developers but, i am working in a XBOX version without the Xbox Live game Servers.
@@ -30,4 +28,4 @@ No, definitely not, I'm doing everything myself from completely scratch, in a pe
 This game is free, BUT WAIT, I NEED TO EAT, DRINK AND PAY MY BILLS, I'm going to create a donation system because I really need a monthly income
 
 #### Is the game open source?
-Yes!, but no, the game yes, the engine, map generation core or map loading core will no longer be open source, the engine is my property, it will not be open source because I love this engine that I made myself
+Yes!, but no, the game "client side" yes, the engine logic/math core, map generation core or map loading core will no longer be open source, the engine is my property, it will not be open source because I love this engine that I made myself and i don't want external modifications, o accept tips amd suggestions
